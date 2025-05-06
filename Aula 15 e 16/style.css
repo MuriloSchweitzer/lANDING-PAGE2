@@ -1,0 +1,16 @@
+.caixa{
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+.botão{
+    border-radius: 20px;
+    background-color: green;
+    color: white;
+}
+.botão2{
+    border-radius: 20px;
+    background-color: red;
+    color: white;
+
+}
